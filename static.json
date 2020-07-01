@@ -1,0 +1,10 @@
+{
+    "headers": {
+        "/**": {
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "DENY",
+        "X-XSS-Protection": "1; mode=block",
+        "Public-Key-Pins": "pin-sha256='base64==Vuy2zjFSPqF5Hz18k88DpUViKGbABaF3vZx5Raghplc='; max-age=expireTime "
+        }
+    }
+}
